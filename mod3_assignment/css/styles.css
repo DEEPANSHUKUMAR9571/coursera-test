@@ -76,3 +76,9 @@ body {
 .row{
   width: 100%;
 }
+h3 {
+  color: blue;
+}
+p {
+  font-size: .8em;
+}
